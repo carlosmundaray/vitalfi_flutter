@@ -104,9 +104,10 @@ vitalfi_flutter/
 
 Distribuido bajo **GNU General Public License v3.0** — ver [LICENSE](LICENSE).
 
-## Autor
+## Autores y colaboradores
 
-Carlos Mundaray — [@carlosmundaray](https://github.com/carlosmundaray)
+- Carlos Mundaray — [@carlosmundaray](https://github.com/carlosmundaray)
+- Ing. Angel Correa — [@correangel](https://github.com/correangel)
 
 ## Contribuciones
 
