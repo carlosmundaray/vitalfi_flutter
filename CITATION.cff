@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use VitalFi in your research or software, please cite it as below."
+authors:
+  - family-names: "Mundaray"
+    given-names: "Carlos"
+    orcid: "https://orcid.org/0009-0002-6152-0256"
+  - family-names: "Correa"
+    given-names: "Angel"
+title: "VitalFi: Wi-Fi-based life detection under rubble"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/carlosmundaray/vitalfi_flutter"
+repository-code: "https://github.com/carlosmundaray/vitalfi_flutter"
+license: GPL-3.0
+keywords:
+  - wi-fi
+  - rssi
+  - csi
+  - life-detection
+  - search-and-rescue
+  - flutter
+  - android
+  - signal-processing
