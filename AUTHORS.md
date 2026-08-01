@@ -14,8 +14,11 @@ VitalFi es un proyecto de investigación y código abierto. Agradecemos a todas 
 ## Colaboradores y Asesores
 
 - **Ing. Angel Correa**
-  - Roles: Colaborador, Asesor Técnico e Investigación.
+  - Roles: Colaborador.
   - GitHub: [@correangel](https://github.com/correangel)
+
+- **Tomas Romero**
+  - Roles: Colaborador, Electrónica y Hardware.
 
 ---
 
