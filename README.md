@@ -154,7 +154,6 @@ Si utilizas VitalFi o sus conceptos en tu investigación académica o desarrollo
 ## 👥 Autores y Colaboradores
 
 - **Carlos Mundaray** — Autor Principal & Investigador — ORCID: [0009-0002-6152-0256](https://orcid.org/0009-0002-6152-0256)
-- **Ing. Angel Correa** — Colaborador — GitHub: [@correangel](https://github.com/correangel)
 - **Tomas Romero** — Colaborador & Electrónica / Hardware
 - **Jose Perez** — Colaborador & Ing. en Informática
 - **Jeancarlos Arocha** — Colaborador & Ing. en Informática
