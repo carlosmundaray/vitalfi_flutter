@@ -138,7 +138,7 @@ Si utilizas VitalFi o sus conceptos en tu investigación académica o desarrollo
 
 ```bibtex
 @misc{vitalfi2026,
-  author       = {Mundaray, Carlos and Correa, Angel},
+  author       = {Mundaray, Carlos},
   title        = {VitalFi: Wi-Fi-based life detection under rubble},
   year         = {2026},
   publisher    = {GitHub},
@@ -151,10 +151,10 @@ Si utilizas VitalFi o sus conceptos en tu investigación académica o desarrollo
 
 ---
 
-## 👥 Autores y Licencia
+## 👥 Autores y Colaboradores
 
 - **Carlos Mundaray** — Autor Principal & Investigador — ORCID: [0009-0002-6152-0256](https://orcid.org/0009-0002-6152-0256)
-- **Ing. Angel Correa** — Coautor y Asesor Técnico — GitHub: [@correangel](https://github.com/correangel)
+- **Ing. Angel Correa** — Colaborador & Asesor Técnico — GitHub: [@correangel](https://github.com/correangel)
 
 Consulta [AUTHORS.md](AUTHORS.md) para ver la lista completa de colaboradores.
 

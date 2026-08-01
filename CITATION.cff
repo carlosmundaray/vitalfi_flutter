@@ -4,8 +4,6 @@ authors:
   - family-names: "Mundaray"
     given-names: "Carlos"
     orcid: "https://orcid.org/0009-0002-6152-0256"
-  - family-names: "Correa"
-    given-names: "Angel"
 title: "VitalFi: Wi-Fi-based life detection under rubble"
 version: 1.0.0
 date-released: 2026-01-01
