@@ -22,6 +22,9 @@ VitalFi es un proyecto de investigación y código abierto. Agradecemos a todas 
 - **Jeancarlos Arocha**
   - Roles: Colaborador, Ingeniería en Informática.
 
+- **James Richard**
+  - Roles: Colaborador, Ingeniería en Telecomunicaciones.
+
 ---
 
 ## Colaboradores de la Comunidad

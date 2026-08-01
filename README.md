@@ -157,6 +157,7 @@ Si utilizas VitalFi o sus conceptos en tu investigación académica o desarrollo
 - **Tomas Romero** — Colaborador & Electrónica / Hardware
 - **Jose Perez** — Colaborador & Ing. en Informática
 - **Jeancarlos Arocha** — Colaborador & Ing. en Informática
+- **James Richard** — Colaborador & Ing. en Telecomunicaciones
 
 Consulta [AUTHORS.md](AUTHORS.md) para ver la lista completa de colaboradores.
 
