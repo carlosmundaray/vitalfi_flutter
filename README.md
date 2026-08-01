@@ -157,6 +157,7 @@ Si utilizas VitalFi o sus conceptos en tu investigación académica o desarrollo
 - **Ing. Angel Correa** — Colaborador — GitHub: [@correangel](https://github.com/correangel)
 - **Tomas Romero** — Colaborador & Electrónica / Hardware
 - **Jose Perez** — Colaborador & Ing. en Informática
+- **Jeancarlos Arocha** — Colaborador & Ing. en Informática
 
 Consulta [AUTHORS.md](AUTHORS.md) para ver la lista completa de colaboradores.
 
